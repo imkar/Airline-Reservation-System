@@ -4,14 +4,14 @@ Simulation of an Airline Reservation System with three travel agencies trying to
 
 - Multithreading implementation using POSIX threads and practice of handling shared memory allocation.
 
-  ![alt text](Logs.png)
+  ![alt text](images/Logs.png)
 
 - Aeroplane Seats are represented as a matrix.
-  ![alt text](AirPlaneSeats.png)
+  ![alt text](images/AirPlaneSeats.png)
 
 - Each travel agency is enumerated with a value representing their turn, during the turn travel agency randomize a column and row number, if the seat is available then occupies it.
 
-  ![alt text](AirplaneSeatsTaken.png)
+  ![alt text](images/AirplaneSeatsTaken.png)
 
 ## Installation and Run:
 
